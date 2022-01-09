@@ -8,7 +8,7 @@ first open visual studio then go to manage nuget click on restore to fix all the
 ![image](https://user-images.githubusercontent.com/95192545/148665829-cdad0b79-c663-4a1e-9637-7a2ef4b7317e.png)
 ![image](https://user-images.githubusercontent.com/95192545/148665834-c1fc070d-625e-4513-86d9-62e90cef789c.png)
 
-#Features
+# Features
 multi webhook support
 16 plugins
 fake error
