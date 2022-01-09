@@ -9,7 +9,7 @@ first open visual studio then go to manage nuget click on restore to fix all the
 ![image](https://user-images.githubusercontent.com/95192545/148665834-c1fc070d-625e-4513-86d9-62e90cef789c.png)
 
 # Features
-multi webhook support \n
+multi webhook support
 16 plugins
 fake error
 file pumper
