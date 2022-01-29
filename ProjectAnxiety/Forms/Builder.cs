@@ -481,7 +481,7 @@ namespace Stub
 
 			public static void Main()
 			{
-                Extract(""Stub"", Path.GetTempPath(), ""Resources"", ""Newtonsoft.Json.dll"");
+                //Extract(""Stub"", Path.GetTempPath(), ""Resources"", ""Newtonsoft.Json.dll"");
 				//defendernigger
 				//myholywater
 				//fakeerrorlolnub
